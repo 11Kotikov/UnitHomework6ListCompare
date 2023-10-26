@@ -1,0 +1,379 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>1</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Файл не заканчивается пустой строкой.</description>
+  <highlighted_element>package</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>5</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="class" FQNAME="org.example.ListComparator" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>18</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="class" FQNAME="org.example.ListComparator" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def rcurly' имеет неправильный уровень отступа 4, ожидаемый уровень 2.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>29</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="class" FQNAME="org.example.ListComparator" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def rcurly' имеет неправильный уровень отступа 4, ожидаемый уровень 2.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>6</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def modifier' имеет неправильный уровень отступа 4, ожидаемый уровень 2.</description>
+  <highlighted_element>SuppressWarnings</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>6</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Похоже, что класс 'ListComparator' предназначен для расширения (может быть подклассом), но у метода 'compareLists' нет javadoc с описанием того, как это безопасно сделать. Если класс не предназначен для расширения, то сделайте класс 'ListComparator' final или сделайте метод 'compareLists' static/final/abstract/пустым, или добавьте методу разрешенную аннотацию.</description>
+  <highlighted_element>SuppressWarnings</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>6</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>SuppressWarnings</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>6</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>SuppressWarnings</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>7</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Параметр list1 должен быть final.</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>7</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Параметр list2 должен быть final.</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>8</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def' дочерний элемент имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>9</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def' дочерний элемент имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>11</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>12</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if' дочерний элемент имеет неправильный уровень отступа 12, ожидаемый уровень 6.</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>13</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if rcurly' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>14</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if' дочерний элемент имеет неправильный уровень отступа 12, ожидаемый уровень 6.</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>15</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if rcurly' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>16</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'else' дочерний элемент имеет неправильный уровень отступа 12, ожидаемый уровень 6.</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>17</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator java.lang.String compareLists(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'else rcurly' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>20</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def modifier' имеет неправильный уровень отступа 4, ожидаемый уровень 2.</description>
+  <highlighted_element>private</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>20</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Параметр list должен быть final.</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>21</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>22</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if' дочерний элемент имеет неправильный уровень отступа 12, ожидаемый уровень 6.</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>23</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'if rcurly' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>24</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def' дочерний элемент имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>25</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'for' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>26</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'for' дочерний элемент имеет неправильный уровень отступа 12, ожидаемый уровень 6.</description>
+  <highlighted_element>sum</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>27</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'for rcurly' имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/org/example/ListComparator.java</file>
+  <line>28</line>
+  <module>UnitHomework6ListCompare</module>
+  <package>org.example</package>
+  <entry_point TYPE="method" FQNAME="org.example.ListComparator double calculateAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'method def' дочерний элемент имеет неправильный уровень отступа 8, ожидаемый уровень 4.</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+</problems>
